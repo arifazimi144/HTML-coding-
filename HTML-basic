@@ -1,1 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div>
+    <h1>List of courses</h1>
+    <ol>
+        <li>Windows</li>
+            <ol>
+                <li>Xp</li>
+                <li>Windows 7</li>
+                <li>Servers</li>
+                <li>Linux</li>
+                <li>Windows 10</li>
+                <li>windows 11</li>
+            </ol>
+        <li>Servers</li>
+            <ol>
+                <li>2016</li>
+                <li>2018</li>
+                <li>2020</li>
+                <li>2021</li>
+                <li>2022 64B</li>
+                <li>2022 32B</li>
+            </ol>
+        <li>CCNA</li>
+            <ol>
+                <li>2016</li>
+                <li>200-301 V1</li>
+                <li>200-301 V2</li>
+                <li>200-301 V3</li>
+                <li>200-301 V4</li>
+                <li>200-301 V5</li>
+            </ol>
+        <li>Networking</li>
+            <ol type="a">
+                <li>class a </li>
+                <li>class b </li>
+                <li>class c </li>
+                <li>class d </li>
+                <li>class e </li>
+            </ol>
+        
+        <li>Front-end-developer</li>
+        <li>back-end-developer</li>
+    </ol> 
+    </div>
+    <div>
+        <h1>My Teachnology Skills</h1>
+        <ol>
+            <li> Windows </li>
+            <li> Operating sytems </li>
+            <li> CCNA </li>
+            <li> CCNP </li>
+            <li> A+ </li>
+        </ol>
+    </div>
+    <div>
+        <h1>Table of stocks</h1>
+        <th>list of all thinds existed in stocks</th>
+        <br>
+        <hr>
+        <table border="1">
+            <tr>
+                <th>Name</th>
+                <th>F.name</th>
+                <th>Addres</th>
+            </tr>
+                <td> Ahmad </td>
+                <td> Mahmood</td>
+                <td> Kabul</td>
+            <tr>
+                <td>Hamid</td>
+                <td>Jamil</td>
+                <td>Kabul</td>
+            </tr>
+            <tr>
+                <td>S.Ali</td>
+                <td>Samad</td>
+                <td>Ghazni</td>
+            </tr>
 
+        </table>
+    </body>
+</div>
+</html>
